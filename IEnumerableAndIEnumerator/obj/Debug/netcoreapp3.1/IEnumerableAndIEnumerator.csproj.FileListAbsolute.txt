@@ -1,0 +1,11 @@
+C:\Users\onurb\Source\Repos\MyArticlesCodes\IEnumerableAndIEnumerator\bin\Debug\netcoreapp3.1\IEnumerableAndIEnumerator.exe
+C:\Users\onurb\Source\Repos\MyArticlesCodes\IEnumerableAndIEnumerator\bin\Debug\netcoreapp3.1\IEnumerableAndIEnumerator.deps.json
+C:\Users\onurb\Source\Repos\MyArticlesCodes\IEnumerableAndIEnumerator\bin\Debug\netcoreapp3.1\IEnumerableAndIEnumerator.runtimeconfig.json
+C:\Users\onurb\Source\Repos\MyArticlesCodes\IEnumerableAndIEnumerator\bin\Debug\netcoreapp3.1\IEnumerableAndIEnumerator.runtimeconfig.dev.json
+C:\Users\onurb\Source\Repos\MyArticlesCodes\IEnumerableAndIEnumerator\bin\Debug\netcoreapp3.1\IEnumerableAndIEnumerator.dll
+C:\Users\onurb\Source\Repos\MyArticlesCodes\IEnumerableAndIEnumerator\bin\Debug\netcoreapp3.1\IEnumerableAndIEnumerator.pdb
+C:\Users\onurb\Source\Repos\MyArticlesCodes\IEnumerableAndIEnumerator\obj\Debug\netcoreapp3.1\IEnumerableAndIEnumerator.csprojAssemblyReference.cache
+C:\Users\onurb\Source\Repos\MyArticlesCodes\IEnumerableAndIEnumerator\obj\Debug\netcoreapp3.1\IEnumerableAndIEnumerator.AssemblyInfoInputs.cache
+C:\Users\onurb\Source\Repos\MyArticlesCodes\IEnumerableAndIEnumerator\obj\Debug\netcoreapp3.1\IEnumerableAndIEnumerator.AssemblyInfo.cs
+C:\Users\onurb\Source\Repos\MyArticlesCodes\IEnumerableAndIEnumerator\obj\Debug\netcoreapp3.1\IEnumerableAndIEnumerator.dll
+C:\Users\onurb\Source\Repos\MyArticlesCodes\IEnumerableAndIEnumerator\obj\Debug\netcoreapp3.1\IEnumerableAndIEnumerator.pdb
